@@ -1,1 +1,2 @@
 This is for the sample test to learn github.
+this is to learn git commands.
